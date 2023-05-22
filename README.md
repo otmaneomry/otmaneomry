@@ -14,10 +14,10 @@
 
 ## Summary
 Experienced software developer with 7 years of professional experience in:
- -[x] Developing clean, organized, and well-structured codebases
- -[x] Leveraging technologies like React.js, Next.js, Node.js, Laravel, and Tailwind CSS to build high-quality applications
- -[x] Demonstrating strong problem-solving and collaboration skills
- -[x] Working in multinational environments## Skills
+ - [x] Developing clean, organized, and well-structured codebases
+ - [x] Leveraging technologies like React.js, Next.js, Node.js, Laravel, and Tailwind CSS to build high-quality applications
+ - [x] Demonstrating strong problem-solving and collaboration skills
+ - [x] Working in multinational environments## Skills
 
 ## Skills
 - Programming Languages: JavaScript, PHP, Java, Python
